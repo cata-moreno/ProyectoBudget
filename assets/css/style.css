@@ -1,0 +1,35 @@
+.losTitulos{
+    padding-top: 15px;
+    text-align: center;
+}
+
+.fondoPresupuesto{
+    background-color:#e2fdba;
+    border: 3px solid #ADFF2F;
+    border-radius: 10px;
+    margin:5%;
+    padding: 9px;
+}
+
+.fondoGasto{
+    background-color:#ffabab;
+    border: 3px solid #8B0000;
+    border-radius: 10px;
+    margin:5%;
+    padding: 9px;
+}
+
+.fondoRegistro1{
+    border: 1px solid #000000;
+    margin:5%;
+    border-radius: 10px;
+    padding: 9px;
+}
+
+.fondoRegistro2{
+    border: 1px solid #000000;
+    margin:5%;
+    border-radius: 10px;
+    padding: 9px;
+    background-color: #d3f7fc;
+}
